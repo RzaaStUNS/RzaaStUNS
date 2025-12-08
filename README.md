@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, vue, vite**
 
-- 📫 How to reach me **abimanyuriza008@student.uns.ac.id**
+- 📫 How to reach me **abimanyuriza008@student.gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
